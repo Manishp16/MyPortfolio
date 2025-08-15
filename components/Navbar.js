@@ -35,10 +35,10 @@ const Navbar = () => {
               {link.name}
             </button>
           ))}
-          <a href="https://github.com/Manishp16" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
+          <a href="https://github.com/manishprajapat421" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
             <FaGithub size={24} />
           </a>
-          <a href="https://www.linkedin.com/in/manishp161845/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
+          <a href="https://www.linkedin.com/in/manish-prajapati-1a9348213/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
             <FaLinkedin size={24} />
           </a>
         </div>
@@ -64,10 +64,10 @@ const Navbar = () => {
             </button>
           ))}
            <div className="flex space-x-4 mt-2">
-              <a href="https://github.com/Manishp16" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
+              <a href="https://github.com/manishprajapat421" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
                 <FaGithub size={24} />
               </a>
-              <a href="https://www.linkedin.com/in/manishp161845/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
+              <a href="https://www.linkedin.com/in/manish-prajapati-1a9348213/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400">
                 <FaLinkedin size={24} />
               </a>
            </div>

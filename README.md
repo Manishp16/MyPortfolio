@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://manish-portfolio-two-alpha.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishprajapat421)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-prajapati-1a9348213/)
 
@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by [Manish Prajapati](https://github.com/manishprajapat421)**
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://manish-portfolio-two-alpha.vercel.app)
 
 </div>
 

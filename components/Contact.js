@@ -86,14 +86,14 @@ const Contact = () => {
                     <div className="bg-gray-800/50 p-6 rounded-lg">
                         <div className="text-cyan-400 text-2xl mb-2">💼</div>
                         <h3 className="font-semibold mb-2">LinkedIn</h3>
-                        <a href="https://www.linkedin.com/in/manishp161845/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400 transition-colors">
+                        <a href="https://www.linkedin.com/in/manish-prajapati-1a9348213/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400 transition-colors">
                             Connect with me
                         </a>
                     </div>
                     <div className="bg-gray-800/50 p-6 rounded-lg">
                         <div className="text-cyan-400 text-2xl mb-2">🐙</div>
                         <h3 className="font-semibold mb-2">GitHub</h3>
-                        <a href="https://github.com/Manishp16" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400 transition-colors">
+                        <a href="https://github.com/manishprajapat421" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400 transition-colors">
                             View my code
                         </a>
                     </div>
